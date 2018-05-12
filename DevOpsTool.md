@@ -1,4 +1,5 @@
-# Co to jest 
+# Co to jest Apicra
+ 
 
 
 # Jak działa
@@ -20,4 +21,5 @@ Każdy krok jest przechowywany w logach i możliwe jest sprawdzenie ewentualnych
 # W czym mogę ulepszyć swoją pracę
 
 
-# Jak mogę go użyć we własnych projektach
+# Jak szybciej realizować projekty przy użyciu Apicra DevOpsTool
+

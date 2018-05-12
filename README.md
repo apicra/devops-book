@@ -7,16 +7,13 @@ Czyli metodyka, która polega na współpracy **administratorów** odpowiedzialn
 https://pl.wikipedia.org/wiki/DevOps
 
 
-# Konspekt
+# Sekcje tego projektu
 
-+ o DEVOPS
-+ Znaczenie, wpływ, możliwości dziś i jutro
-+ Narzędzia 
-    + jakie są, przepisy na wykonanie, czas jaki jest potrzebny
-    + proste recepty na definiowalne problemy 
-    + problem -> narzędzie + todo -> rozwiązanie
-    + proste do użycia online
-    + na własnym serwerze, jak zainstalować
++ książka 
++ Blog
++ Narzędzie Apicra dla DevOps 
+
+# Konspekt
 
 
 # Zadania do wykonania
