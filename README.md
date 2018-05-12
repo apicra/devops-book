@@ -6,11 +6,27 @@ Czyli metodyka, która polega na współpracy **administratorów** odpowiedzialn
 
 https://pl.wikipedia.org/wiki/DevOps
 
+# Pomysł
+
+Jak wielu programistów napotykam na wiel barier i szukam rozwiązań,
+Ta książka jest zbiorem moich doświadczeń, które zbieram w jedną całość, aby 
+w przytsępny sposób podzielić się wiedzą, która może być przydatna dla tych którzy:
++ chcą szybko zarządzać dużym projektem
++ chcą zacząć nowe środowisko programowania
++ chcą się przebranożowić a nie wiedzą jak zacząć
+
+Czyli wszędzie tam, gdzie można szybciej zrealizować to, co wielu programistom zajmuje wiele 
+ nieprzespanych nocy, dodatkowych nadgodzin, stresu w czasie oddawania oprogramowania dla klienta oraz już po oddaniu, 
+ gdy konieczne są zmiany, które przysparzają sporo problemu z uwagi na środowisko oraz dane. 
 
 # Sekcje tego projektu
 
-+ książka 
-+ Blog
++ /book, 
+rodziały książki
+
++ Blog,
+
+
 + Narzędzie Apicra dla DevOps 
 
 # Konspekt
