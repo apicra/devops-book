@@ -1,6 +1,11 @@
 # Gitbook
 W celu atomatyzacji publikacji wykorzystuję gitbook
 
+## Dokumentacja
+https://toolchain.gitbook.com/pages.html
+
+
+## Instalacja i generowanie książki
 
 update current version
         
