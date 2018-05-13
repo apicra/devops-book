@@ -11,3 +11,10 @@ tagi
 Pytanie na jakie odpowiada ta część książki
 Tagi
 Graf
+
+# Przepisy
+Problem
+Rozwiązanie
+Potrzebne technologie
+Czas realizacji i na co
+Jaki będzie efekt

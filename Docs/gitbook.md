@@ -4,6 +4,8 @@ W celu atomatyzacji publikacji wykorzystuję gitbook
 ## Dokumentacja
 https://toolchain.gitbook.com/pages.html
 
+### Cover
+https://github.com/GitbookIO/plugin-autocover
 
 ## Instalacja i generowanie książki
 

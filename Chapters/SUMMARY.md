@@ -1,5 +1,5 @@
 # Summary
-* [Konspekt](konspekt.md)
+* [Konspekt](Konspekt.md)
 * [Introduction](README.md)
 * [Obecny Stan Technologii](obecnie.md)
     * [Historia](historia.md)
