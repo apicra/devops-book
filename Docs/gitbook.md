@@ -1,3 +1,6 @@
+# Gitbook
+W celu atomatyzacji publikacji wykorzystuję gitbook
+
 
 update current version
         

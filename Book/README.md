@@ -1,12 +1,21 @@
-# Projekt
-Celem projektu jest stworzenie książki związanej z narzędziami w pracy Programisty i Administratora
-W skrócie DevOps
-Czyli metodyka, która polega na współpracy **administratorów** odpowiedzialnych za utrzymanie sprzętu i oprogramowania
+# Wstęp
+Ta książka powstała jako jeden z elementów projektu apicra.
+Projekt ma na celu rozpowszechnianie i współtworzenie automatyzacji w tworzeniu aplikacji, czyli DEVOPS.
+DevOps która polega na współpracy **administratorów** odpowiedzialnych za utrzymanie sprzętu i oprogramowania
  oraz **programistów** czyli specjalistów od rozwoju oprogramowania.
-
 https://pl.wikipedia.org/wiki/DevOps
 
-# Pomysł
+W książce zawarte są dobre praktyki:
++ Narzędzia
++ Przykładowe rozwiązania
++ Drogi rozwoju
++ Dane badawcze pokazujące wpływ użycia narzędzi DEVOPS na efektywność tworzenia i serwisowania oprogramowania
+
+
+
+
+# Pomysł 
+Skąd wziął się Pomysł na powstanie tej książki?
 
 Jak wielu programistów napotykam na wiel barier i szukam rozwiązań,
 Ta książka jest zbiorem moich doświadczeń, które zbieram w jedną całość, aby 
