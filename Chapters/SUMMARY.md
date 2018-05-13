@@ -1,19 +1,22 @@
 # Summary
-* [Konspekt](Konspekt.md)
-* [Introduction](README.md)
-* [Obecny Stan Technologii](obecnie.md)
-    * [Historia](historia.md)
-    * [Badania](badania.md)
-    * [Oprogramowanie](oprogramowanie.md)
-    * [Obsługa](serwis.md)
-* [Rozwiązania](rozwiazania.md)
-    * [Apicra Devops](apicra.md)
-    * [Narzędzia Devops](tools.md)
+* 1. Wstęp
+    * [Konspekt](1/Konspekt.md)
+    * [Introduction](1/README.md)
+* 2. Analiza    
+    * [Obecny Stan Technologii](2/obecnie.md)
+    * [Historia](2/historia.md)
+    * [Badania](2/badania.md)
+    * [Oprogramowanie](2/oprogramowanie.md)
+    * [Obsługa](2/serwis.md)
+* 3. Narzędzia i ich wykorzyzstanie
+    * [Rozwiązania](3/rozwiazania.md)
+    * [Apicra Devops](3/apicra.md)
+    * [Narzędzia Devops](3/tools.md)
 
-* [Przykłady](rozwiazania.md)
-    * [Narzędzia Devops](tools.md)    
+* [4 Przykłady](4/rozwiazania.md)
+    * [Narzędzia Devops](4/tools.md)    
 
-* [Dalszy rozwój](rozwiazania.md)
+* [5 Podsumowowanie, Dalszy rozwój](rozwiazania.md)
     * [Jakie są możliwości i kierunki rozwoju](tools.md)        
     * [Społeczność](tools.md)       
     * [wyzwania](tools.md)        
