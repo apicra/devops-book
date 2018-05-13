@@ -28,18 +28,24 @@ Czyli wszędzie tam, gdzie można szybciej zrealizować to, co wielu programisto
  nieprzespanych nocy, dodatkowych nadgodzin, stresu w czasie oddawania oprogramowania dla klienta oraz już po oddaniu, 
  gdy konieczne są zmiany, które przysparzają sporo problemu z uwagi na środowisko oraz dane. 
 
-# Sekcje tego projektu
+## Charakter książki
 
-+ /book, 
-rodziały książki
+Nie jestem teoretykiem, dlatego w kolejnych rozdziałach będzie sporo przykładów użycia narzędzi w codziennej pracy.
+ 
 
-+ Blog,
+## Książka jako drogowskaz
+Chciałbym pokazać każdym przykładem uyycia, specyfikę narzędzia i sposób w jaki warto praktycznie rozwiązać wiele problemów na raz
+
+### Książka kucharska
+To trochę jak z książką kucharską z przepisami, gdzie te same wypieki są wykonane w inny sposób, 
+pokazując jak wiele rozwiązan, prowadzi do tego samego celu.
 
 
-+ Narzędzie Apicra dla DevOps 
+# Moja motywacja do pisania
+W związku z rozwojem własnych kompetencji zauważyłem op
 
 # Konspekt
-
+(konspekt)[konspekt.md]
 
 # Zadania do wykonania
 
