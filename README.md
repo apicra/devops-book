@@ -6,6 +6,9 @@ Czyli metodyka, która polega na współpracy **administratorów** odpowiedzialn
 
 https://pl.wikipedia.org/wiki/DevOps
 
+# Książka online
+http://book.apicra.com/_book/
+
 # Pomysł
 
 Jak wielu programistów napotykam na wiel barier i szukam rozwiązań,
