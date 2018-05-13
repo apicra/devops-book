@@ -30,7 +30,7 @@ Czyli wszędzie tam, gdzie można szybciej zrealizować to, co wielu programisto
 
 ## Charakter książki
 
-Nie jestem teoretykiem, dlatego w kolejnych rozdziałach będzie sporo przykładów użycia narzędzi w codziennej pracy.
+Jestem praktykiem, dlatego w kolejnych rozdziałach będzie sporo przykładów użycia narzędzi w codziennej pracy.
  
 
 ## Książka jako drogowskaz
@@ -42,7 +42,13 @@ pokazując jak wiele rozwiązan, prowadzi do tego samego celu.
 
 
 # Moja motywacja do pisania
-W związku z rozwojem własnych kompetencji zauważyłem op
+W związku z rozwojem własnych kompetencji i eksplorowaniem dostępnych źródłe zauważyłem zbyt małą dostępność prostych narzędzi do użycia, które można by było łatwo dostosować, bez względu na system, nie przechodząc od razu do rozwiązan SaaS
+Oprogramowanie dostępne w konsoli lokalnie w oparciu o otwarte źródło z możliwością łatwej adaptacji do własnych warunków już jest wyjątkowe, a przy wsparciu społeczności staje się potężnym narzedziem w rękach wielu rzemieślników: programistów i administratorów.
+
+# Apicra i inne narzędzia
+Narzędzia opisane w książce można łatwo zainstalować przy użyciu apicra, nawet tę książkę, można lokalnie renderować przy użyciu Apicra DevOps Tool.
+To narzędzie okaże się bardzo pomocne przy uruchamianiu przykładów praktycznych zaprezentowanych w tej książce.
+
 
 # Konspekt
 (konspekt)[konspekt.md]

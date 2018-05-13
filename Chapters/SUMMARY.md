@@ -1,17 +1,15 @@
 # Summary
-
 * [Konspekt](konspekt.md)
-
 * [Introduction](README.md)
-
 * [Obecny Stan Technologii](obecnie.md)
     * [Historia](historia.md)
     * [Badania](badania.md)
     * [Oprogramowanie](oprogramowanie.md)
     * [Obsługa](serwis.md)
 * [Rozwiązania](rozwiazania.md)
+    * [Apicra Devops](apicra.md)
     * [Narzędzia Devops](tools.md)
-    
+
 * [Przykłady](rozwiazania.md)
     * [Narzędzia Devops](tools.md)    
 
