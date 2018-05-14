@@ -27,43 +27,6 @@ To co mamy dzis wynika z przeszlosci, a to co bedzie jutro wynika z woczoraj
 Jednak narzedzia czesto nie sa kompatybilne w stecz i stad potrzebna jest edukacja, by te narzedzia zrozumiec i utrzymywac
 tak by nie powstawaly problemy wynikajace z niedostosowania.
 
-# Apicra standardy
-Pierwszym standardem jaki niesie ze soba apicra sa komendy
-install
-update
-downgrade
-remove
-info
-status
-logs
-
-prawie kazda aplikacja moze bezposrednio obslugiwac te komendy
-jednak nie wszystkie dzialaj aw tak bezposeredni sposob i jest wiele drog chocby pobrania aplikacji i jej zainstalowania
-a potem odinstalowania
-stad przy uzyciu standardow, latwiej pisac kolejne poziomy abstrakcji, np automatyzacje przy podejmowaniu decyzji o wynku dzialania
-
-## Rozszerezenia
-    -code
-    -help
-    -ticket
-    
-Paramter code wyswietla zrodlo komendy co sluzy transparentnosci, np
-    
-    dot composer install -code    
-    
-Parametr help pokazuje pomoc kontekstowa, ktora normalnie wyswietla program, pomocne przy automatyzacji
-    
-    dot composer install -help    
-
-Parametr ticket pozwala uzytkownikkowi lub systemowi podczas automatyzacji wyslania informacji o bledzie lub logow
-    
-    dot composer install -ticket "tresc zadania"
-
-## Transparntnosc 
-To bardzo istotne w celu budowania zaufania, tak by kazdy przed podjeciem decyzji o wykonaniu jakiejs komendy mial mozliwosc sprawdzenia co tak na prawde zostanie wykonane
-Wazne jest to w kontekscie ewentualnych bledow, jakie moglyby powstac, albo poznania zasady dzialania,
-lub wyslania poprawy
-mozna transparentnie
 
 # Pomysł 
 Skąd wziął się Pomysł na powstanie tej książki?

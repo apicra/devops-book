@@ -25,3 +25,43 @@ Analiza jest konieczna aby nie tracic czasu na poboczne problemy ktore nie maja.
 
 Maksymalne zogniskowanie na rozwiazanie. 
 Dzialanie majace na celu zrozumienie problemu. 
+
+
+
+# Apicra standardy
+Pierwszym standardem jaki niesie ze soba apicra sa komendy
+install
+update
+downgrade
+remove
+info
+status
+logs
+
+prawie kazda aplikacja moze bezposrednio obslugiwac te komendy
+jednak nie wszystkie dzialaj aw tak bezposeredni sposob i jest wiele drog chocby pobrania aplikacji i jej zainstalowania
+a potem odinstalowania
+stad przy uzyciu standardow, latwiej pisac kolejne poziomy abstrakcji, np automatyzacje przy podejmowaniu decyzji o wynku dzialania
+
+## Rozszerezenia
+    -code
+    -help
+    -ticket
+    
+Paramter code wyswietla zrodlo komendy co sluzy transparentnosci, np
+    
+    dot composer install -code    
+    
+Parametr help pokazuje pomoc kontekstowa, ktora normalnie wyswietla program, pomocne przy automatyzacji
+    
+    dot composer install -help    
+
+Parametr ticket pozwala uzytkownikkowi lub systemowi podczas automatyzacji wyslania informacji o bledzie lub logow
+    
+    dot composer install -ticket "tresc zadania"
+
+## Transparntnosc 
+To bardzo istotne w celu budowania zaufania, tak by kazdy przed podjeciem decyzji o wykonaniu jakiejs komendy mial mozliwosc sprawdzenia co tak na prawde zostanie wykonane
+Wazne jest to w kontekscie ewentualnych bledow, jakie moglyby powstac, albo poznania zasady dzialania,
+lub wyslania poprawy
+mozna transparentnie
