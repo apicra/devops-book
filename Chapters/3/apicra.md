@@ -9,3 +9,19 @@ To co czeka Apicra za jakiś czas, to nowe wyzwania przy podejmowania coraz gł�
 Obecne stosowane rozwiązania mają za zadanie zbadanie zgodności i dostarczenie określonej wersji oprogramowania,
 na użytkowniku spoczywa usunięcie trybów niezgodności i błędów występująych w srodowisku.
 Tutaj pojawia się Apicra, która analizuje te błędy i stara się znaleźć rozwiązanie, poprzez analizę i identyfikację źródła tych problemów a następnie stworzeniu rozwiązania i instalacji.
+
+## Learning by doing
+
+Oprogramowanie Apicra devops tool
+Realizuje idee uczenia poprzez dzialanie, ktore jest silnie wspierane przez spolecznosc
+W naszej spolecznosci naturalne jest i pozadane zroznicowanie w zawansowaniu znajomosci technologii
+Niedoswiadczeni zadaja pyt
+Eksperci odpowiadaja, 
+
+Nauczyc mozna sie wielu rzeczy w rozmy sposob, przy roznym zaangazowaniu. 
+
+Naszym celem jest skrocenie drogi poprzez analize sytuacji i podaniu ty na aktualny problem. 
+Analiza jest konieczna aby nie tracic czasu na poboczne problemy ktore nie maja. Przelozenia na rozwiazanie. 
+
+Maksymalne zogniskowanie na rozwiazanie. 
+Dzialanie majace na celu zrozumienie problemu. 
